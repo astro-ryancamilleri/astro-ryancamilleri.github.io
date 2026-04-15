@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Investigating Type Ia supernovae as precision probes of cosmic expansion and dark energy, and testing extensions to the standard cosmological model using large datasets and statistical inference.
+Using type Ia supernovae as precision probes of cosmic expansion and dark energy.
