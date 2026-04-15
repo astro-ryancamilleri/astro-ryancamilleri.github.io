@@ -1,0 +1,261 @@
+basics:
+  name: Ryan Camilleri
+  email: uqrcamil@uq.edu.au
+  phone: "+61 433 949 126"
+  profiles:
+    - network: ORCID
+      username: 0000-0002-7436-3950
+
+summary: >
+  PhD student specialising in observational cosmology with a focus on Type Ia supernovae as standard candles and tests of beyond-ΛCDM models. 
+  Interested in extending these methods to standard siren cosmology and addressing the Hubble tension. 
+  Experienced with DES supernova working group, transient follow-up, and cosmological pipelines including COSMOSIS, SNANA, and COBAYA.
+
+education:
+  - institution: University of Queensland
+    area: Cosmology (Dark Energy Survey)
+    degree: PhD
+    start_date: 2022-06
+    end_date: present
+    location: Brisbane, Australia
+
+  - institution: University of Queensland
+    degree: Bachelor of Science (Honours)
+    start_date: 2021-02
+    end_date: 2022-06
+    location: Brisbane, Australia
+
+  - institution: Griffith University
+    degree: Bachelor of Science (Physics & Mathematics)
+    start_date: 2017-02
+    end_date: 2020-12
+    location: Gold Coast, Australia
+
+  - institution: Upper Coomera State College
+    degree: Queensland Certificate of Education
+    start_date: 2006-02
+    end_date: 2010-11
+    location: Gold Coast, Australia
+
+experience:
+  - company: 1StopHairShop
+    position: Retail Manager
+    start_date: 2010-11
+    end_date: 2024-10
+    location: Gold Coast, Australia
+    highlights:
+      - Managed staff training, scheduling, and payroll
+      - Liaised with suppliers and sales representatives
+      - Handled logistics for incoming and outgoing deliveries
+      - Maintained customer relations in a small business environment
+
+awards:
+  - title: Honourable Mention for Best Student Publication in Physics
+    date: 2025
+
+  - title: Dark Energy Survey “Builder”
+    date: 2025
+    details: Recognition for contributions to the DES Collaboration
+
+  - title: Best Presentation – Non-invited Speaker
+    date: 2024
+    details: Frontiers in Cosmology & Gravitational Physics (Portsmouth)
+
+  - title: Head of School Award for Excellence in Science
+    date: 2020
+    details: Highest cumulative GPA (7.0), Griffith University
+
+  - title: Australian Institute of Physics Prize
+    date: 2020
+    details: Top graduating physics student (GPA 7.0)
+
+  - title: Griffith Futures Scholarship
+    date: 2020
+
+  - title: Griffith Award for Academic Excellence
+    date: 2017-2020
+    details: Awarded annually for GPA ≥ 6.0
+
+publications:
+  first_author:
+    - title: "Supernova Unite: Constraints on cosmologies beyond-ΛCDM"
+      authors: ["R. Camilleri", "J. Lee", "T. M. Davis", "et al."]
+      year: 2025
+      note: In preparation
+
+    - title: "Supernova Unite: Combining Pantheon+ and DES-SN5YR"
+      authors: ["R. Camilleri", "J. Lee", "T. M. Davis", "et al."]
+      year: 2025
+      note: In preparation
+
+    - title: "The Dark Energy Survey Supernova Program: An updated measurement of the Hubble constant using the Inverse Distance Ladder"
+      authors: ["R. Camilleri", "T. M. Davis", "S. R. Hinton", "et al."]
+      journal: MNRAS
+      year: 2025
+      volume: 537
+      number: 2
+      pages: 1818
+
+    - title: "The Dark Energy Survey Supernova Program: Investigating Beyond-ΛCDM"
+      authors: ["R. Camilleri", "T. M. Davis", "M. Vincenzi", "et al."]
+      journal: MNRAS
+      year: 2024
+      volume: 533
+      number: 3
+      pages: 2615
+
+  coauthor:
+    - title: "The Dark Energy Survey Supernova Program: A Reanalysis Of Cosmology Results And Evidence For Evolving Dark Energy With An Updated Type Ia Supernova Calibration"
+      authors: ["B. Popovic", "P. Shah", "D. W. Kenworthy", "et al."]
+      journal: arXiv
+      year: 2025
+      pages: "2511.07517"
+
+    - title: "Implications for cosmological expansion models from the final DES BAO and Supernova data"
+      authors: ["DES Collaboration", "et al."]
+      journal: arXiv
+      year: 2025
+      pages: "2503.06712"
+
+    - title: "A novel approach to cosmological non-linearities as an effective fluid"
+      authors: ["L. Giani", "R. v. Marttens", "R. Camilleri"]
+      journal: Physical Review Letters
+      year: 2025
+      volume: 135
+      pages: "071004"
+
+    - title: "Comparing the DES-SN5YR and Pantheon+ SN cosmology analyses"
+      authors: ["M. Vincenzi", "R. Kessler", "P. Shah", "et al."]
+      journal: MNRAS
+      year: 2025
+      volume: 541
+      number: 3
+      pages: 2585
+
+    - title: "It is not σ8: constraining the non-linear matter power spectrum"
+      authors: ["P. Shah", "T. M. Davis", "M. Vincenzi", "et al."]
+      journal: MNRAS
+      year: 2025
+      volume: 537
+      number: 4
+      pages: 3814
+
+    - title: "Constraints on compact objects from the DES 5-year supernova sample"
+      authors: ["P. Shah", "T. M. Davis", "M. Vincenzi", "et al."]
+      journal: MNRAS
+      year: 2024
+      volume: 536
+      number: 1
+      pages: 946
+
+    - title: "Cosmological Analysis and Systematic Uncertainties"
+      authors: ["M. Vincenzi", "D. Brout", "P. Armstrong", "et al."]
+      journal: ApJ
+      year: 2024
+      volume: 975
+      pages: 86
+
+    - title: "Light curves and 5-Year data release"
+      authors: ["B. O. Sánchez", "D. Brout", "M. Vincenzi", "et al."]
+      journal: ApJ
+      year: 2024
+      volume: 975
+      pages: 5
+
+    - title: "WiFeS observations of nearby southern Type Ia supernova host"
+      authors: ["A. Carr", "T. M. Davis", "R. Camilleri", "et al."]
+      journal: PASA
+      year: 2024
+      volume: 41
+      pages: "e068"
+
+    - title: "DES Cosmology Results with ~1500 high-redshift Type Ia supernovae"
+      authors: ["DES Collaboration", "et al."]
+      journal: ApJL
+      year: 2024
+      volume: 973
+      pages: "L14"
+
+talks:
+  - event: The End of ?
+    location: Incheon, South Korea
+    date: 2025-09
+    type: Invited Talk
+    highlights:
+      - Presented DES Supernova key cosmology results
+      - Discussed combined DES + Pantheon+ analysis
+
+  - event: Cosmic Flows
+    location: Brisbane, Australia
+    date: 2025-02
+    type: Contributed Talk
+    highlights:
+      - Presented inverse distance ladder H₀ measurement paper
+
+  - event: DES Spring Meeting
+    location: Barcelona, Spain
+    date: 2024-05
+    type: Collaboration Talk
+    highlights:
+      - Presented beyond-ΛCDM analysis update
+
+  - event: Frontiers in Cosmology & Gravitational Physics
+    location: Portsmouth, England
+    date: 2024-05
+    type: Contributed Talk
+    highlights:
+      - Presented beyond-ΛCDM paper
+
+  - event: DES Winter Meeting
+    location: Portsmouth, England
+    date: 2023-01
+    type: Internal Talks
+    highlights:
+      - Presented progress updates to SN and beyond-ΛCDM groups
+
+conferences:
+  - name: OzGrav ECR Winter School
+    location: Kingscliff, Australia
+    date: 2025-08
+
+activities:
+  - organization: UQ-QASMT Research Mentoring Program
+    position: Mentor
+    start_date: 2025-07
+    end_date: present
+    highlights:
+      - Mentoring Year 10 students in cosmology research projects
+      - Teaching Python and scientific communication
+
+  - organization: Dark Energy Survey Supernova Working Group
+    position: Telecon Chair
+    start_date: 2022
+    end_date: 2025
+    highlights:
+      - Organised and led tri-weekly international meetings
+      - Facilitated collaboration between Australia and UK teams
+
+  - organization: UQ Astro Work Experience Program
+    position: Volunteer
+    start_date: 2022
+    end_date: 2024
+    highlights:
+      - Helped run astronomy outreach program for high school students
+
+memberships:
+  - name: Dark Energy Survey Collaboration
+  - name: OzGrav
+  - name: Dark Energy Spectroscopic Instrument (DESI)
+
+references:
+  - name: Prof. Tamara Davis
+    relation: PhD Supervisor
+    email: tamarad@physics.uq.edu.au
+
+  - name: A/Prof. Maria Vincenzi
+    relation: DES Supernova Working Group Convenor
+    email: maria.vincenzi@physics.ox.ac.uk
+
+  - name: Dr Paul Shah
+    relation: DES Supernova Working Group Member
+    email: paul.shah.19@ucl.ac.uk
