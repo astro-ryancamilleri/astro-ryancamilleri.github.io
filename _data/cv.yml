@@ -176,14 +176,14 @@ publications:
       volume: 973
       pages: "L14"
 
-talks:
-  - event: The End of ?
+conferences:
+  - event: The End of Λ?
     location: Incheon, South Korea
     date: 2025-09
     type: Invited Talk
     highlights:
       - Presented DES Supernova key cosmology results
-      - Discussed combined DES + Pantheon+ analysis
+      - Discussed Unite - a combined DES + Pantheon+ analysis
 
   - event: Cosmic Flows
     location: Brisbane, Australia
@@ -213,8 +213,7 @@ talks:
     highlights:
       - Presented progress updates to SN and beyond-ΛCDM groups
 
-conferences:
-  - name: OzGrav ECR Winter School
+  - event: OzGrav ECR Winter School
     location: Kingscliff, Australia
     date: 2025-08
 
