@@ -3,9 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Post doc. @ <a href='https://smp.uq.edu.au/research/astrophysics/people'>The University of Queensland</a><br>
-  <a href='https://www.darkenergysurvey.org'>Dark Energy Survey</a> Member<br>
-  Observational Cosmology
+  Postdoctoral Research Fellow @ <a href='https://smp.uq.edu.au/research/astrophysics/people'>The University of Queensland</a><br>
+  Member of the <a href='https://www.darkenergysurvey.org'>Dark Energy Survey</a> collaboration<br>
+  Observational Cosmologist
  
 profile:
   align: center
