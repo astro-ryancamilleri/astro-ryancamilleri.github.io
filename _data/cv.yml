@@ -1,15 +1,15 @@
 basics:
   name: Ryan Camilleri
   email: uqrcamil@uq.edu.au
+  label: Observational cosmologist
+  location: The University of Queensland, Australia
   phone: "+61 433 949 126"
   profiles:
     - network: ORCID
       username: 0000-0002-7436-3950
 
 summary: >
-  PhD student specialising in observational cosmology with a focus on Type Ia supernovae as standard candles and tests of beyond-ΛCDM models. 
-  Interested in extending these methods to standard siren cosmology and addressing the Hubble tension. 
-  Experienced with DES supernova working group, transient follow-up, and cosmological pipelines including COSMOSIS, SNANA, and COBAYA.
+  An astrophysicist specialising in observational cosmology with a focus on standard candle techniques using Type Ia supernovae, and tests of beyond-ΛCDM models. 
 
 education:
   - institution: University of Queensland
