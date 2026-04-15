@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post doc. at <a href='https://smp.uq.edu.au/research/astrophysics/people'>The University of Queensland</a> | <a href='[https://smp.uq.edu.au/research/astrophysics/people](https://www.darkenergysurvey.org)'>Dark Energy Survey</a> Member | Observational Cosmology
+subtitle: >
+  Post doc. @ <a href='https://smp.uq.edu.au/research/astrophysics/people'>The University of Queensland</a><br>
+  <a href='https://www.darkenergysurvey.org'>Dark Energy Survey</a> Member<br>
+  Observational Cosmology
  
 profile:
   align: center
