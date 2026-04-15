@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Post doc. @ UQ | Dark Energy Survey Member | Observational Cosmology
-
+subtitle: Post doc. at <a href='https://smp.uq.edu.au/research/astrophysics/people'>The University of Queensland</a> | <a href='[https://smp.uq.edu.au/research/astrophysics/people](https://www.darkenergysurvey.org)'>Dark Energy Survey</a> Member | Observational Cosmology
+ 
 profile:
   align: center
   image: ryanc.png
