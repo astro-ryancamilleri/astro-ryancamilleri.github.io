@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Using type Ia supernovae as precision probes of cosmic expansion and dark energy.
+Combining Type Ia supernovae with complementary probes to constrain cosmic expansion and dark energy.
