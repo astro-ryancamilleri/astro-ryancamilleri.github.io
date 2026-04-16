@@ -39,7 +39,7 @@ cv:
         date: 2025
         summary: Recognition for contributions to the DES Collaboration
 
-      - title: Best Presentation - non-invited Speaker
+      - title: "Best Presentation - non-invited Speaker"
         date: 2024
         summary: Awarded at the Frontiers and Gravitational physics conference in Portsmouth, England.
 
@@ -71,22 +71,22 @@ cv:
           - Maintained customer relations in a small business environment
 
     Conferences:
-      - name: The End of Λ?
+      - name: "The End of Λ?"
         location: Incheon, South Korea
         date: 2025-09
-        summary: Invited talk presenting the DES supernova cosmology results and my current project, Unite a combined DES + Pantheon+ analysis
+        summary: "Invited talk presenting both the DES supernova cosmology results and my current project, which is a combined DES & Pantheon+ analysis"
       - name: Cosmic Flows
         location: Brisbane, Australia
         date: 2025-02
-        summary: Presented H₀ inverse distance ladder results
+        summary: "Presented H₀ inverse distance ladder results"
       - name: DES Spring Meeting
         location: Barcelona, Spain
         date: 2024-05
-        summary: Presented beyond-ΛCDM paper
+        summary: "Presented beyond-ΛCDM paper"
       - name: Frontiers in Cosmology & Gravitational Physics
         location: Portsmouth, England
         date: 2024-05
-        summary: Presented beyond-ΛCDM paper
+        summary: "Presented beyond-ΛCDM paper"
       - name: OzGrav ECR Winter School
         location: Kingscliff, Australia
         date: 2025-08
@@ -140,7 +140,7 @@ cv:
         position: Telecon Chair
         start_date: 2022
         end_date: 2025
-        summary: Organised and led tri-weekly international meetings, facilitating collaboration between Australia and UK teams.
+        summary: "Organised and led tri-weekly international meetings, facilitating collaboration between Australia and UK teams."
       - name: UQ Astro Work Experience Program
         position: Volunteer
         start_date: 2022
