@@ -30,17 +30,6 @@ cv:
         start_date: 2017-02
         end_date: 2020-12
 
-    Experience:
-      - company: 1StopHairShop
-        position: Retail Manager
-        location: Gold Coast, Australia
-        start_date: 2010-11
-        end_date: 2024-10
-        highlights:
-          - Managed staff training, payroll, and scheduling
-          - Liaised with suppliers and sales representatives
-          - Maintained customer relations in a small business environment
-
     Awards:
       - title: Honourable Mention for Best Student Publication in Physics 
         date: 2025
@@ -70,12 +59,23 @@ cv:
         date: 2017
         summary: Awarded to students who achieve a cumulative GPA of at least 6.0, calculated over the academic year. I received this award each year of my undergraduate degree.
 
+    Experience:
+      - company: 1StopHairShop
+        position: Retail Manager
+        location: Gold Coast, Australia
+        start_date: 2010-11
+        end_date: 2024-10
+        highlights:
+          - Managed staff training, payroll, and scheduling
+          - Liaised with suppliers and sales representatives
+          - Maintained customer relations in a small business environment
 
-    # Publications (First Author):
-    #   - title: Supernova Unite: Constraints on cosmologies beyond-ΛCDM
-    #     authors: R. Camilleri et al.
-    #     releaseDate: 2026
-    #     summary: In preparation
+
+    First Author Publications:
+      - title: Supernova Unite: Constraints on cosmologies beyond-ΛCDM
+        authors: R. Camilleri et al.
+        releaseDate: 2026
+        summary: In preparation
 
     #   - title: Supernova Unite: Combining Pantheon+ and DES-SN5YR
     #     authors: R. Camilleri et al.
