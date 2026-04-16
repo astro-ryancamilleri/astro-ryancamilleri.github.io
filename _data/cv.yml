@@ -27,16 +27,16 @@ cv:
         start_date: 2017-02
         end_date: 2020-12
 
-    # Experience:
-    #   - company: 1StopHairShop
-    #     position: Retail Manager
-    #     location: Gold Coast, Australia
-    #     start_date: 2010-11
-    #     end_date: 2024-10
-    #     highlights:
-    #       - Managed staff training, payroll, and scheduling
-    #       - Liaised with suppliers and sales representatives
-    #       - Maintained customer relations in a small business environment
+    Experience:
+      - company: 1StopHairShop
+        position: Retail Manager
+        location: Gold Coast, Australia
+        start_date: 2010-11
+        end_date: 2024-10
+        highlights:
+          - Managed staff training, payroll, and scheduling
+          - Liaised with suppliers and sales representatives
+          - Maintained customer relations in a small business environment
 
     # Awards:
     #   - title: Dark Energy Survey “Builder”
