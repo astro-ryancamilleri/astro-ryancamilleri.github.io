@@ -71,11 +71,11 @@ cv:
           - Maintained customer relations in a small business environment
 
 
-    First Author Publications:
-      - title: Supernova Unite: Constraints on cosmologies beyond-ΛCDM
-        authors: R. Camilleri et al.
-        releaseDate: 2026
-        summary: In preparation
+    # First Author Publications:
+    #   - title: Supernova Unite: Constraints on cosmologies beyond-ΛCDM
+    #     authors: R. Camilleri et al.
+    #     releaseDate: 2026
+    #     summary: In preparation
 
     #   - title: Supernova Unite: Combining Pantheon+ and DES-SN5YR
     #     authors: R. Camilleri et al.
@@ -108,11 +108,11 @@ cv:
     #     publisher: Physical Review Letters
     #     releaseDate: 2025
 
-    # Conferences:
-    #   - name: The End of $$\Lambda$$?
-    #     location: Incheon, South Korea
-    #     date: 2025-09
-    #     summary: Invited talk presenting the DES supernova cosmology results and my current project, Unite a combined DES + Pantheon+ analysis
+    Conferences:
+      - name: The End of Λ?
+        location: Incheon, South Korea
+        date: 2025-09
+        summary: Invited talk presenting the DES supernova cosmology results and my current project, Unite a combined DES + Pantheon+ analysis
 
     #   - name: Cosmic Flows
     #     location: Brisbane, Australia
