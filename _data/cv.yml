@@ -4,13 +4,12 @@ cv:
   email: uqrcamil@uq.edu.au
   location: The University of Queensland, Australia
   phone: "+61 433 949 126"
+  summary: I am a postdoctoral research fellow specialising in observational cosmology, with a focus on standard candle techniques using Type Ia supernovae and tests of beyond-ΛCDM models. I have strong experience building end-to-end cosmology pipelines for data analysis, simulation, and parameter inference alongside statistical analysis and model testing. I am also proficient working with established cosmological software frameworks such as `COSMOSIS`, `SNANA`, and `COBAYA`.
   social_networks:
     - network: ORCID 
       username: 0000-0002-7436-3950 
   
   sections:
-    summary: I am a postdoctoral research fellow specialising in observational cosmology, with a focus on standard candle techniques using Type Ia supernovae and tests of beyond-ΛCDM models. I have strong experience building end-to-end cosmology pipelines for data analysis, simulation, and parameter inference alongside statistical analysis and model testing. I am also proficient working with established cosmological software frameworks such as `COSMOSIS`, `SNANA`, and `COBAYA`.
-    
     Education:
       - institution: The University of Queensland
         location: Brisbane, Australia
