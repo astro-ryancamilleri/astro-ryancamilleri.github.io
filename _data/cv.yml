@@ -111,8 +111,8 @@ cv:
     Conferences:
       - name: The End of Λ?
         location: Incheon, South Korea
-        date: 2025-09
-        summary: Invited talk presenting the DES supernova cosmology results and my current project, Unite a combined DES + Pantheon+ analysis
+        #date: 2025-09
+        #summary: Invited talk presenting the DES supernova cosmology results and my current project, Unite a combined DES + Pantheon+ analysis
 
     #   - name: Cosmic Flows
     #     location: Brisbane, Australia
