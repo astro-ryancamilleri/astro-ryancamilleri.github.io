@@ -69,8 +69,14 @@ cv:
           - Managed staff training, payroll, and scheduling
           - Liaised with suppliers and sales representatives
           - Maintained customer relations in a small business environment
+    
+    Conferences:
+      - company: testing
+        position: Incheon, South Korea
+        date: 2025-09
+        summary: Invited talk presenting the DES supernova cosmology results and my current project, Unite a combined DES + Pantheon+ analysis
 
-
+#   # The End of Λ?
     # First Author Publications:
     #   - title: Supernova Unite: Constraints on cosmologies beyond-ΛCDM
     #     authors: R. Camilleri et al.
@@ -108,11 +114,7 @@ cv:
     #     publisher: Physical Review Letters
     #     releaseDate: 2025
 
-    Conferences:
-      - company: The End of Λ?
-        position: Incheon, South Korea
-        date: 2025-09
-        summary: Invited talk presenting the DES supernova cosmology results and my current project, Unite a combined DES + Pantheon+ analysis
+    # CONFERENCES
 
     #   - name: Cosmic Flows
     #     location: Brisbane, Australia
