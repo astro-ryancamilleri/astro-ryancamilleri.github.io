@@ -104,30 +104,30 @@ cv:
         publisher: Physical Review Letters
         releaseDate: 2025
 
-    Conferences:
-      - name: The End of $$\Lambda$$?
-        location: Incheon, South Korea
-        date: 2025-09
-        summary: Invited talk presenting the DES supernova cosmology results and my current project, Unite a combined DES + Pantheon+ analysis
+    # Conferences:
+    #   - name: The End of $$\Lambda$$?
+    #     location: Incheon, South Korea
+    #     date: 2025-09
+    #     summary: Invited talk presenting the DES supernova cosmology results and my current project, Unite a combined DES + Pantheon+ analysis
 
-      - name: Cosmic Flows
-        location: Brisbane, Australia
-        date: 2025-02
-        summary: Presented H₀ inverse distance ladder results
+    #   - name: Cosmic Flows
+    #     location: Brisbane, Australia
+    #     date: 2025-02
+    #     summary: Presented H₀ inverse distance ladder results
 
-      - name: DES Spring Meeting
-        location: Barcelona, Spain
-        date: 2024-05
-        summary: Presented beyond-ΛCDM paper
+    #   - name: DES Spring Meeting
+    #     location: Barcelona, Spain
+    #     date: 2024-05
+    #     summary: Presented beyond-ΛCDM paper
 
-      - name: Frontiers in Cosmology & Gravitational Physics
-        location: Portsmouth, England
-        date: 2024-05
-        summary: Presented beyond-$$\Lambda$$CDM paper
+    #   - name: Frontiers in Cosmology & Gravitational Physics
+    #     location: Portsmouth, England
+    #     date: 2024-05
+    #     summary: Presented beyond-$$\Lambda$$CDM paper
 
-      - name: OzGrav ECR Winter School
-        location: Kingscliff, Australia
-        date: 2025-08
+    #   - name: OzGrav ECR Winter School
+    #     location: Kingscliff, Australia
+    #     date: 2025-08
 
     # Activities:
     #   - company: UQ-QASMT Research Mentoring Program
