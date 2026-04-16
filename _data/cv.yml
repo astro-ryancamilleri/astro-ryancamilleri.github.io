@@ -55,8 +55,7 @@ cv:
         summary: Awardeded at the Frontiers and Gravitational physics conference in Portsmouth, England.
 
       - name: Head of School Award for Excellence in Science
-        start_date: 2017-01
-        end_date: 2020-12
+        date: 2017-2020
         summary: Awarded to students who achieve a cumulative GPA of at least 6.0, calculated over the academic year. I received this award consecutively throughout my undergraduate degree. 
         
       - name: Australian Institute of Physics Prize
