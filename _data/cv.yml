@@ -6,155 +6,155 @@ cv:
   phone: "+61 433 949 126"
   summary: An astrophysicist specialising in observational cosmology with a focus on standard candle techniques using Type Ia supernovae, and tests of beyond-ΛCDM models. 
 
-  sections:
+  # sections:
 
-    Education:
-      - institution: The University of Queensland
-        location: Brisbane, Australia
-        area: Cosmology (Dark Energy Survey)
-        studyType: PhD
-        start_date: 2022-06
-        end_date: present
+  #   Education:
+  #     - institution: The University of Queensland
+  #       location: Brisbane, Australia
+  #       area: Cosmology (Dark Energy Survey)
+  #       studyType: PhD
+  #       start_date: 2022-06
+  #       end_date: present
 
-      - institution: The University of Queensland
-        location: Brisbane, Australia
-        studyType: Bachelor of Science (Honours)
-        start_date: 2021-02
-        end_date: 2022-06
+  #     - institution: The University of Queensland
+  #       location: Brisbane, Australia
+  #       studyType: Bachelor of Science (Honours)
+  #       start_date: 2021-02
+  #       end_date: 2022-06
 
-      - institution: Griffith University
-        location: Gold Coast, Australia
-        studyType: Bachelor of Science (Physics & Mathematics)
-        start_date: 2017-02
-        end_date: 2020-12
+  #     - institution: Griffith University
+  #       location: Gold Coast, Australia
+  #       studyType: Bachelor of Science (Physics & Mathematics)
+  #       start_date: 2017-02
+  #       end_date: 2020-12
 
-    Experience:
-      - company: 1StopHairShop
-        position: Retail Manager
-        location: Gold Coast, Australia
-        start_date: 2010-11
-        end_date: 2024-10
-        highlights:
-          - Managed staff training, payroll, and scheduling
-          - Liaised with suppliers and sales representatives
-          - Maintained customer relations in a small business environment
+  #   Experience:
+  #     - company: 1StopHairShop
+  #       position: Retail Manager
+  #       location: Gold Coast, Australia
+  #       start_date: 2010-11
+  #       end_date: 2024-10
+  #       highlights:
+  #         - Managed staff training, payroll, and scheduling
+  #         - Liaised with suppliers and sales representatives
+  #         - Maintained customer relations in a small business environment
 
-    Awards:
-      - title: Dark Energy Survey “Builder”
-        date: 2025
-        summary: Recognition for contributions to DES Collaboration
+  #   Awards:
+  #     - title: Dark Energy Survey “Builder”
+  #       date: 2025
+  #       summary: Recognition for contributions to DES Collaboration
 
-      - title: Best Presentation – Non-invited Speaker
-        date: 2024
-        summary: Frontiers in Cosmology & Gravitational Physics
+  #     - title: Best Presentation – Non-invited Speaker
+  #       date: 2024
+  #       summary: Frontiers in Cosmology & Gravitational Physics
 
-      - title: Head of School Award for Excellence in Science
-        date: 2020
+  #     - title: Head of School Award for Excellence in Science
+  #       date: 2020
 
-      - title: Australian Institute of Physics Prize
-        date: 2020
+  #     - title: Australian Institute of Physics Prize
+  #       date: 2020
 
-    Publications (First Author):
-      - title: Supernova Unite: Constraints on cosmologies beyond-ΛCDM
-        authors: R. Camilleri et al.
-        releaseDate: 2026
-        summary: In preparation
+  #   Publications (First Author):
+  #     - title: Supernova Unite: Constraints on cosmologies beyond-ΛCDM
+  #       authors: R. Camilleri et al.
+  #       releaseDate: 2026
+  #       summary: In preparation
 
-      - title: Supernova Unite: Combining Pantheon+ and DES-SN5YR
-        authors: R. Camilleri et al.
-        releaseDate: 2026
-        summary: In preparation
+  #     - title: Supernova Unite: Combining Pantheon+ and DES-SN5YR
+  #       authors: R. Camilleri et al.
+  #       releaseDate: 2026
+  #       summary: In preparation
 
-      - title: DES Supernova Program: H₀ from the Inverse Distance Ladder
-        authors: R. Camilleri et al.
-        publisher: MNRAS
-        releaseDate: 2025
+  #     - title: DES Supernova Program: H₀ from the Inverse Distance Ladder
+  #       authors: R. Camilleri et al.
+  #       publisher: MNRAS
+  #       releaseDate: 2025
 
-      - title: DES Supernova Program: Investigating Beyond-ΛCDM
-        authors: R. Camilleri et al.
-        publisher: MNRAS
-        releaseDate: 2024
+  #     - title: DES Supernova Program: Investigating Beyond-ΛCDM
+  #       authors: R. Camilleri et al.
+  #       publisher: MNRAS
+  #       releaseDate: 2024
 
-    Publications (Co-Author):
-      - title: DES Supernova Program: Reanalysis of Cosmology Results
-        authors: B. Popovic et al.
-        publisher: arXiv
-        releaseDate: 2025
+  #   Publications (Co-Author):
+  #     - title: DES Supernova Program: Reanalysis of Cosmology Results
+  #       authors: B. Popovic et al.
+  #       publisher: arXiv
+  #       releaseDate: 2025
 
-      - title: Cosmological expansion from DES BAO and SN data
-        authors: DES Collaboration
-        publisher: arXiv
-        releaseDate: 2025
+  #     - title: Cosmological expansion from DES BAO and SN data
+  #       authors: DES Collaboration
+  #       publisher: arXiv
+  #       releaseDate: 2025
 
-      - title: Cosmological non-linearities as an effective fluid
-        authors: L. Giani, R. Camilleri et al.
-        publisher: Physical Review Letters
-        releaseDate: 2025
+  #     - title: Cosmological non-linearities as an effective fluid
+  #       authors: L. Giani, R. Camilleri et al.
+  #       publisher: Physical Review Letters
+  #       releaseDate: 2025
 
-    Conferences:
-      - name: The End of Λ?
-        location: Incheon, South Korea
-        date: 2025-09
-        summary: Invited talk presenting the DES supernova cosmology results and my current project, Unite a combined DES + Pantheon+ analysis
+  #   Conferences:
+  #     - name: The End of Λ?
+  #       location: Incheon, South Korea
+  #       date: 2025-09
+  #       summary: Invited talk presenting the DES supernova cosmology results and my current project, Unite a combined DES + Pantheon+ analysis
 
-      - name: Cosmic Flows
-        location: Brisbane, Australia
-        date: 2025-02
-        summary: Presented H₀ inverse distance ladder results
+  #     - name: Cosmic Flows
+  #       location: Brisbane, Australia
+  #       date: 2025-02
+  #       summary: Presented H₀ inverse distance ladder results
 
-      - name: DES Spring Meeting
-        location: Barcelona, Spain
-        date: 2024-05
-        summary: Presented beyond-ΛCDM paper
+  #     - name: DES Spring Meeting
+  #       location: Barcelona, Spain
+  #       date: 2024-05
+  #       summary: Presented beyond-ΛCDM paper
 
-      - name: Frontiers in Cosmology & Gravitational Physics
-        location: Portsmouth, England
-        date: 2024-05
-        summary: Presented beyond-ΛCDM paper
+  #     - name: Frontiers in Cosmology & Gravitational Physics
+  #       location: Portsmouth, England
+  #       date: 2024-05
+  #       summary: Presented beyond-ΛCDM paper
 
-      - name: OzGrav ECR Winter School
-        location: Kingscliff, Australia
-        date: 2025-08
+  #     - name: OzGrav ECR Winter School
+  #       location: Kingscliff, Australia
+  #       date: 2025-08
 
-    Activities:
-      - company: UQ-QASMT Research Mentoring Program
-        position: Mentor
-        start_date: 2025-07
-        end_date: present
-        highlights:
-          - Mentoring Year 10 students in cosmology research projects
-          - Teaching Python and scientific communication
+  #   Activities:
+  #     - company: UQ-QASMT Research Mentoring Program
+  #       position: Mentor
+  #       start_date: 2025-07
+  #       end_date: present
+  #       highlights:
+  #         - Mentoring Year 10 students in cosmology research projects
+  #         - Teaching Python and scientific communication
 
-      - company: Dark Energy Survey
-        position: Telecon Chair
-        start_date: 2022
-        end_date: 2025
-        highlights:
-          - Organised and led tri-weekly international meetings
-          - Facilitated collaboration between Australia and UK teams
+  #     - company: Dark Energy Survey
+  #       position: Telecon Chair
+  #       start_date: 2022
+  #       end_date: 2025
+  #       highlights:
+  #         - Organised and led tri-weekly international meetings
+  #         - Facilitated collaboration between Australia and UK teams
 
-      - organization: UQ Astro Work Experience Program
-        position: Volunteer
-        start_date: 2022
-        end_date: 2024
-        highlights:
-          - Helped run astronomy outreach program for high school students
+  #     - organization: UQ Astro Work Experience Program
+  #       position: Volunteer
+  #       start_date: 2022
+  #       end_date: 2024
+  #       highlights:
+  #         - Helped run astronomy outreach program for high school students
 
-    Memberships:
-      - name: Dark Energy Survey Collaboration
-      - name: OzGrav
-      - name: DESI Collaboration
+  #   Memberships:
+  #     - name: Dark Energy Survey Collaboration
+  #     - name: OzGrav
+  #     - name: DESI Collaboration
 
-    References:
-      - name: Prof. Tamara Davis
-        reference: PhD Supervisor, University of Queensland
-        email: tamarad@physics.uq.edu.au
+  #   References:
+  #     - name: Prof. Tamara Davis
+  #       reference: PhD Supervisor, University of Queensland
+  #       email: tamarad@physics.uq.edu.au
 
-      - name: A/Prof. Maria Vincenzi
-        reference: DES Supernova Working Group Convenor
-        email: maria.vincenzi@physics.ox.ac.uk
+  #     - name: A/Prof. Maria Vincenzi
+  #       reference: DES Supernova Working Group Convenor
+  #       email: maria.vincenzi@physics.ox.ac.uk
 
-      - name: Dr Paul Shah
-        reference: DES Collaboration
-        email: paul.shah.19@ucl.ac.uk
+  #     - name: Dr Paul Shah
+  #       reference: DES Collaboration
+  #       email: paul.shah.19@ucl.ac.uk
       
