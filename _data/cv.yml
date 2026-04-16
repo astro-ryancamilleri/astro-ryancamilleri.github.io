@@ -5,9 +5,9 @@ cv:
   location: The University of Queensland, Australia
   phone: "+61 433 949 126"
   summary: I am a postdoctoral research fellow specialising in observational cosmology, with a focus on standard candle techniques using Type Ia supernovae and tests of beyond-ΛCDM models. I have strong experience building end-to-end cosmology pipelines for data analysis, simulation, and parameter inference alongside statistical analysis and model testing. I am also proficient working with established cosmological software frameworks such as `COSMOSIS`, `SNANA`, and `COBAYA`.
-  social_networks:
-    - network: ORCID 
-      id: 0000-0002-7436-3950 
+  # social_networks:
+  #   - network: ORCID 
+  #     id: 0000-0002-7436-3950 
   
   sections:
     Education:
@@ -70,11 +70,11 @@ cv:
           - Liaised with suppliers and sales representatives
           - Maintained customer relations in a small business environment
     
-    Conferences:
-      - company: testing
-        position: Incheon, South Korea
-        date: 2025-09
-        summary: Invited talk presenting the DES supernova cosmology results and my current project, Unite a combined DES + Pantheon+ analysis
+    # Conferences:
+    #   - company: testing
+    #     position: Incheon, South Korea
+    #     date: 2025-09
+    #     summary: Invited talk presenting the DES supernova cosmology results and my current project, Unite a combined DES + Pantheon+ analysis
 
 #   # The End of Λ?
     # First Author Publications:
