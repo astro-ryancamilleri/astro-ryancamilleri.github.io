@@ -67,42 +67,42 @@ cv:
         date: 2020
         summary: Awarded to students who have been impacted by various types of educational disadvantage.
 
-    Publications (First Author):
-      - title: Supernova Unite: Constraints on cosmologies beyond-ΛCDM
-        authors: R. Camilleri et al.
-        releaseDate: 2026
-        summary: In preparation
+    # Publications (First Author):
+    #   - title: Supernova Unite: Constraints on cosmologies beyond-ΛCDM
+    #     authors: R. Camilleri et al.
+    #     releaseDate: 2026
+    #     summary: In preparation
 
-      - title: Supernova Unite: Combining Pantheon+ and DES-SN5YR
-        authors: R. Camilleri et al.
-        releaseDate: 2026
-        summary: In preparation
+    #   - title: Supernova Unite: Combining Pantheon+ and DES-SN5YR
+    #     authors: R. Camilleri et al.
+    #     releaseDate: 2026
+    #     summary: In preparation
 
-      - title: DES Supernova Program: H₀ from the Inverse Distance Ladder
-        authors: R. Camilleri et al.
-        publisher: MNRAS
-        releaseDate: 2025
+    #   - title: DES Supernova Program: H₀ from the Inverse Distance Ladder
+    #     authors: R. Camilleri et al.
+    #     publisher: MNRAS
+    #     releaseDate: 2025
 
-      - title: DES Supernova Program: Investigating Beyond-ΛCDM
-        authors: R. Camilleri et al.
-        publisher: MNRAS
-        releaseDate: 2024
+    #   - title: DES Supernova Program: Investigating Beyond-ΛCDM
+    #     authors: R. Camilleri et al.
+    #     publisher: MNRAS
+    #     releaseDate: 2024
 
-    Publications (Co-Author):
-      - title: DES Supernova Program: Reanalysis of Cosmology Results
-        authors: B. Popovic et al.
-        publisher: arXiv
-        releaseDate: 2025
+    # Publications (Co-Author):
+    #   - title: DES Supernova Program: Reanalysis of Cosmology Results
+    #     authors: B. Popovic et al.
+    #     publisher: arXiv
+    #     releaseDate: 2025
 
-      - title: Cosmological expansion from DES BAO and SN data
-        authors: DES Collaboration
-        publisher: arXiv
-        releaseDate: 2025
+    #   - title: Cosmological expansion from DES BAO and SN data
+    #     authors: DES Collaboration
+    #     publisher: arXiv
+    #     releaseDate: 2025
 
-      - title: Cosmological non-linearities as an effective fluid
-        authors: L. Giani, R. Camilleri et al.
-        publisher: Physical Review Letters
-        releaseDate: 2025
+    #   - title: Cosmological non-linearities as an effective fluid
+    #     authors: L. Giani, R. Camilleri et al.
+    #     publisher: Physical Review Letters
+    #     releaseDate: 2025
 
     # Conferences:
     #   - name: The End of $$\Lambda$$?
