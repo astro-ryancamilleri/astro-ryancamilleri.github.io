@@ -39,19 +39,29 @@ cv:
           - Maintained customer relations in a small business environment
 
     Awards:
+      - title: Honourable Mention for Best Student Publication in Physics 
+        date: 2025
+    
       - title: Dark Energy Survey “Builder”
         date: 2025
         summary: Recognition for contributions to DES Collaboration
 
       - title: Best Presentation – Non-invited Speaker
         date: 2024
-        summary: Frontiers in Cosmology & Gravitational Physics
+        summary: Awardeded at the Frontiers and Gravitational physics conference in Portsmouth England.
 
       - title: Head of School Award for Excellence in Science
-        date: 2020
-
+        start_date: 2017
+        end_date: 2020
+        summary: Awarded to students who achieve a cumulative career GPA of at least 6.0, calculated over the academic year. I received this award consecutively throughout my undergraduate degree. 
+        
       - title: Australian Institute of Physics Prize
         date: 2020
+        summary: Awarded to the student for the most outstanding graduating student in a Physics major (GPA 7.0).
+
+      - title: Griffith Futures Scholarship
+        date: 2020
+        summary: Awarded to students who have been impacted by various types of educational disadvantage.
 
     # Publications (First Author):
     #   - title: Supernova Unite: Constraints on cosmologies beyond-ΛCDM
