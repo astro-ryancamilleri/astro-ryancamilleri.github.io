@@ -38,20 +38,20 @@ cv:
           - Liaised with suppliers and sales representatives
           - Maintained customer relations in a small business environment
 
-    # Awards:
-    #   - title: Dark Energy Survey “Builder”
-    #     date: 2025
-    #     summary: Recognition for contributions to DES Collaboration
+    Awards:
+      - title: Dark Energy Survey “Builder”
+        date: 2025
+        summary: Recognition for contributions to DES Collaboration
 
-    #   - title: Best Presentation – Non-invited Speaker
-    #     date: 2024
-    #     summary: Frontiers in Cosmology & Gravitational Physics
+      - title: Best Presentation – Non-invited Speaker
+        date: 2024
+        summary: Frontiers in Cosmology & Gravitational Physics
 
-    #   - title: Head of School Award for Excellence in Science
-    #     date: 2020
+      - title: Head of School Award for Excellence in Science
+        date: 2020
 
-    #   - title: Australian Institute of Physics Prize
-    #     date: 2020
+      - title: Australian Institute of Physics Prize
+        date: 2020
 
     # Publications (First Author):
     #   - title: Supernova Unite: Constraints on cosmologies beyond-ΛCDM
