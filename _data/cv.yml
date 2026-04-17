@@ -148,10 +148,12 @@ cv:
         summary: Helping to run a yearly astronomy outreach program for high school students at The University of Queensland.
 
     Memberships:
-      - label: Dark Energy Survey (DES) Collaboration
-        details: Awarded builder status as recognition for signficant contributions 
+      - label: Dark Energy Survey (DES)
+        details: Builder. The Dark Energy Survey is an international, collaborative effort to map hundreds of millions of galaxies, detect thousands of supernovae, and find patterns of cosmic structure that will reveal the nature of the mysterious dark energy that is accelerating the expansion of our Universe.
       - label: ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav)
+        details: Member. The mission of OzGrav is to capitalise on the historic first detections of gravitational waves to understand the extreme physics of black holes and warped spacetime, and to inspire the next generation of Australian scientists and engineers through this new window on the Universe.
       - label: Dark Energy Spectroscopic Instrument (DESI) Collaboration
+        details: Member. DESI seeks to map the large-scale structure of the Universe over an enormous volume. Targeting about 30 million pre-selected galaxies across one-third of the night sky, scientists will use DESI’s redshifts data to construct 3D maps of the universe.
 
     References:
       - name: Prof. Tamara Davis
