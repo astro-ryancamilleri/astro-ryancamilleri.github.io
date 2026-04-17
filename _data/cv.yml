@@ -134,7 +134,8 @@ cv:
       - name: "UQ-QASMT Research Mentoring Program"
         position: Mentor
         start_date: 2025-07
-        end_date: present
+        end_date: 2026
+        summary: As a mentor, I guided a group of Year 10 students through an independent cosmology project, introducing them to Python coding, and helping them develop the skills to produce clear plots and reports that effectively communicate their results.
         summary: Mentored Year 10 students in a cosmology research projects, fostering coding and scientific communication skills.
       - name: Dark Energy Survey
         position: Telecon Chair
@@ -145,7 +146,7 @@ cv:
         position: Volunteer
         start_date: 2022
         end_date: present
-        summary: Helping to run a yearly astronomy outreach program for high school students at The University of Queensland.
+        summary: The Astronomy group at The University of Queensland runs a weeklong work experience program (typically mid-year) and offers future STEM students who want careers in astronomy a first-hand look at the day-to-day life of an Astronomer. The week consists of an astronomy project, telescope demonstrations, “Meet the researcher” discussions and on the final day, the students get to present what they have learned to the group. Since 2022, I have volunteered to help organise and run this program.
 
     Memberships:
       - label: Dark Energy Survey (DES)
