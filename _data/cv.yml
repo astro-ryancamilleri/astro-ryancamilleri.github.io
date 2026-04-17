@@ -148,12 +148,10 @@ cv:
         summary: Helped run an astronomy outreach program for high school students.
 
     Memberships:
-      - label: Dark Energy Survey Collaboration
-        details: Active member of the DES collaboration.
-      - label: OzGrav
-        details: Member of the OzGrav collaboration.
-      - label: DESI Collaboration
-        details: Member of the DESI collaboration.
+      - label: Dark Energy Survey (DES) Collaboration
+        details: Awarded builder status as recognition for signficant contributions 
+      - label: ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav)
+      - label: Dark Energy Spectroscopic Instrument (DESI) Collaboration
 
     References:
       - name: Prof. Tamara Davis
