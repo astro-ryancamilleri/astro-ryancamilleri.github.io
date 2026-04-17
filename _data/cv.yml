@@ -59,7 +59,7 @@ cv:
         date: 2017
         summary: Awarded to students who achieve a cumulative GPA of at least 6.0, calculated over the academic year. I received this award each year of my undergraduate degree.
 
-    Employment_History:
+    "Employment History":
       - company: 1StopHairShop
         position: Retail Manager
         location: Gold Coast, Australia
