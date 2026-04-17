@@ -135,7 +135,7 @@ cv:
         position: Mentor
         start_date: 2025-07
         end_date: present
-        summary: Mentored Year 10 students in cosmology research projects and taught Python and scientific communication.
+        summary: Mentored Year 10 students in a cosmology research projects, fostering coding and scientific communication skills.
       - name: Dark Energy Survey
         position: Telecon Chair
         start_date: 2022
@@ -144,8 +144,8 @@ cv:
       - name: UQ Astro Work Experience Program
         position: Volunteer
         start_date: 2022
-        end_date: 2024
-        summary: Helped run an astronomy outreach program for high school students.
+        end_date: present
+        summary: Helping to run a yearly astronomy outreach program for high school students at The University of Queensland.
 
     Memberships:
       - label: Dark Energy Survey (DES) Collaboration
