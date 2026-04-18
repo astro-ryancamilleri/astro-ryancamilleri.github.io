@@ -1,10 +1,10 @@
 cv:
-  name: Ryan Camilleri
-  label: Observational cosmologist
-  email: uqrcamil@uq.edu.au
-  location: The University of Queensland, Australia
+  name: Albert Einstein
+  label: Scientist
+  email: einstein@example.com
+  location: Princeton, NJ
   image: ""
-  summary: An astrophysicist specialising in observational cosmology with a focus on standard candle techniques using Type Ia supernovae, and tests of beyond-ΛCDM models. 
+  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time 
 
   social_networks:
     - network: X
