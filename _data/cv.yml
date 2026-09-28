@@ -63,42 +63,6 @@ cv:
         date: 2017
         summary: Awarded to students who achieve a cumulative GPA of at least 6.0, calculated over the academic year. I received this award each year of my undergraduate degree.
 
-    Conferences:
-      - name: "Next Generation of SN Surveys Mini-Workshop"
-        location: Oxford, United Kingdom
-        date: 2026-07
-        summary: "Presented my paper: Supernova Unite: Combining Pantheon+ and DES-SN5YR"
-
-      - name: "Supernova Cosmology: New Challenges and Opportunities"
-        location: Seoul, South Korea
-        date: 2026-06
-        summary: "Presented my paper: Supernova Unite: Combining Pantheon+ and DES-SN5YR"
-
-      - name: "The End of Λ?"
-        location: Incheon, South Korea
-        date: 2025-09
-        summary: "Invited talk presenting both the DES supernova cosmology results and my current project, which is a combined DES & Pantheon+ analysis"
-
-      - name: Cosmic Flows
-        location: Brisbane, Australia
-        date: 2025-02
-        summary: "Presented H₀ inverse distance ladder results"
-
-      - name: DES Spring Meeting
-        location: Barcelona, Spain
-        date: 2024-05
-        summary: "Presented beyond-ΛCDM paper"
-
-      - name: Frontiers in Cosmology & Gravitational Physics
-        location: Portsmouth, England
-        date: 2024-05
-        summary: "Presented beyond-ΛCDM paper"
-
-      - name: OzGrav ECR Winter School
-        location: Kingscliff, Australia
-        date: 2025-08
-        summary: Attended the OzGrav ECR Winter School
-
     Publications:
       - title: "Supernova Unite: Constraints on cosmologies beyond-ΛCDM"
         authors:
@@ -158,6 +122,43 @@ cv:
           - R. Camilleri et al.
         journal: Publications of the Astronomical Society of Australia
         date: 2024
+
+
+    Conferences:
+      - name: "Next Generation of SN Surveys Mini-Workshop"
+        location: Oxford, United Kingdom
+        date: 2026-07
+        summary: "Presented my paper: Supernova Unite: Combining Pantheon+ and DES-SN5YR"
+
+      - name: "Supernova Cosmology: New Challenges and Opportunities"
+        location: Seoul, South Korea
+        date: 2026-06
+        summary: "Presented my paper: Supernova Unite: Combining Pantheon+ and DES-SN5YR"
+
+      - name: "The End of Λ?"
+        location: Incheon, South Korea
+        date: 2025-09
+        summary: "Invited talk presenting both the DES supernova cosmology results and my current project, which is a combined DES & Pantheon+ analysis"
+
+      - name: Cosmic Flows
+        location: Brisbane, Australia
+        date: 2025-02
+        summary: "Presented H₀ inverse distance ladder results"
+
+      - name: DES Spring Meeting
+        location: Barcelona, Spain
+        date: 2024-05
+        summary: "Presented beyond-ΛCDM paper"
+
+      - name: Frontiers in Cosmology & Gravitational Physics
+        location: Portsmouth, England
+        date: 2024-05
+        summary: "Presented beyond-ΛCDM paper"
+
+      - name: OzGrav ECR Winter School
+        location: Kingscliff, Australia
+        date: 2025-08
+        summary: Attended the OzGrav ECR Winter School
 
     Activities:
       - name: "UQ-QASMT Research Mentoring Program"
