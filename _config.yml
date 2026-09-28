@@ -16,7 +16,8 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: camilleri, ryan, cosmology, astrophysics, des, supernovae
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 💥
+#icon: 💥
+icon: /assets/img/galaxy.png
 
 url: https://astro-ryancamilleri.github.io
 baseurl:
