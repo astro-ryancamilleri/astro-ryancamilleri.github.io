@@ -28,12 +28,3 @@ latest_posts:
 ---
 
 Combining type Ia supernovae with complementary probes to constrain cosmic expansion and dark energy.
-
-<figure class="text-center">
-  <img src="/assets/img/w0wa_switch.gif"
-       alt="Unite cosmology results"
-       style="max-width: 300px;">
-  <figcaption>
-    Cosmological constraints from the Supernovae Unite analysis provided the tightest constraints on time-varying dark energy to-date!
-  </figcaption>
-</figure>
