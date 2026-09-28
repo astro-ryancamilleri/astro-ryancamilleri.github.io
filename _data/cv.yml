@@ -4,7 +4,7 @@ cv:
   email: uqrcamil@uq.edu.au
   location: The University of Queensland, Australia
   phone: "+61 433 949 126"
-  summary: I am a postdoctoral research fellow specialising in observational cosmology, with a focus on standard candle techniques using Type Ia supernovae and tests of beyond-ΛCDM models. I have strong experience building end-to-end cosmology pipelines for data analysis, simulation, and parameter inference alongside statistical analysis and model testing. I am also proficient working with established cosmological software frameworks such as `COSMOSIS`, `SNANA`, and `COBAYA`.
+  summary: I am a postdoctoral research fellow at The University of Queensland specialising in observational cosmology, with a focus on standard candle techniques using Type Ia supernovae and tests of beyond-ΛCDM models. I have strong experience building end-to-end cosmology pipelines for data analysis, simulation, and parameter inference alongside statistical analysis and model testing. I am also proficient working with established cosmological software frameworks such as `COSMOSIS`, `SNANA`, and `COBAYA`.
   social_networks:
     - network: ORCID 
       id: 0000-0002-7436-3950 
@@ -58,14 +58,6 @@ cv:
       - title: Griffith Award for Academic Excellence 
         date: 2017
         summary: Awarded to students who achieve a cumulative GPA of at least 6.0, calculated over the academic year. I received this award each year of my undergraduate degree.
-
-    "Employment History":
-      - company: 1StopHairShop
-        position: Retail Manager
-        location: Gold Coast, Australia
-        start_date: 2010-11
-        end_date: 2024-10
-        summary: I held a management position in a family-owned hair salon. Being an integral part of a small business enabled me to transition from a full-time to casual position at the commencement of my studies. Some of my roles include the training, management and paying wages of staff, communication with sales representatives, processing outgoing and incoming deliveries, and customer relations. 
 
     Conferences:
       - name: "Next Generation of SN Surveys Mini-Workshop"
