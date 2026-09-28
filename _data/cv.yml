@@ -16,7 +16,7 @@ cv:
         area: Cosmology (Dark Energy Survey)
         studyType: PhD
         start_date: 2022-06
-        end_date: present
+        end_date: 2026-09
 
       - institution: The University of Queensland
         location: Brisbane, Australia
@@ -68,6 +68,10 @@ cv:
         summary: I held a management position in a family-owned hair salon. Being an integral part of a small business enabled me to transition from a full-time to casual position at the commencement of my studies. Some of my roles include the training, management and paying wages of staff, communication with sales representatives, processing outgoing and incoming deliveries, and customer relations. 
 
     Conferences:
+      - name: Supernova Cosmology: New Challenges and Opportunities
+        location: Seoul, South Korea
+        date: 2026-06
+        summary: "Presented my paper: Supernova Unite: Combining Pantheon+ and DES-SN5YR" 
       - name: "The End of Λ?"
         location: Incheon, South Korea
         date: 2025-09
@@ -99,7 +103,8 @@ cv:
         authors:
           - R. Camilleri et al.
         releaseDate: 2026
-        summary: In preparation
+        publisher: arXiv
+        summary: Submitted to PASA
       - title: "DES Supernova Program: H₀ from the Inverse Distance Ladder"
         authors:
           - R. Camilleri et al.
@@ -113,12 +118,12 @@ cv:
       - title: "DES Supernova Program: Reanalysis of Cosmology Results"
         authors:
           - B. Popovic et al.
-        publisher: arXiv
+        publisher: MNRAS
         releaseDate: 2025
-      - title: "Cosmological expansion from DES BAO and SN data"
+      - title: "Dark Energy Survey: implications for cosmological expansion models from the final DES Baryon Acoustic Oscillation and Supernova data"
         authors:
           - DES Collaboration
-        publisher: arXiv
+        publisher: Physical Review D
         releaseDate: 2025
       - title: "Cosmological non-linearities as an effective fluid"
         authors:
