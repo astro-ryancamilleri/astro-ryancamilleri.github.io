@@ -1,17 +1,3 @@
 # for more options, see https://docs.rendercv.com/user_guide/yaml_input_structure/design/
 design:
   theme: engineeringresumes
-
-  page:
-    size: a4
-    show_footer: false
-    show_top_note: false
-
-  templates:
-    education_entry:
-      main_column: |-
-        **DEGREE** -- **INSTITUTION**, AREA
-      date_and_location_column: DATE
-
-  entries:
-    short_second_row: false
