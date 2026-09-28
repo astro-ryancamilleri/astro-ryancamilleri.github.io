@@ -1,6 +1,6 @@
 ---
 profile:
-  align: center
+  align: right
   image: ryanc.png
   image_circular: true # crops the image to make it circular
   more_info:
