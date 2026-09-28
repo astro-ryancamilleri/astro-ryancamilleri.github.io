@@ -150,6 +150,14 @@ cv:
           - R. Camilleri
         journal: Physical Review Letters
         date: 2025
+        
+      - title: "WiFeS observations of nearby southern Type Ia supernova host galaxies"
+        authors:
+          - A. Carr
+          - T. M. Davis
+          - R. Camilleri et al.
+        journal: Publications of the Astronomical Society of Australia
+        date: 2024
 
     Activities:
       - name: "UQ-QASMT Research Mentoring Program"
