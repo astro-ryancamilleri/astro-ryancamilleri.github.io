@@ -32,16 +32,17 @@
             {% elsif entry.title %}
               <h6 class="title font-weight-bold ml-1 ml-md-4">{{ entry.title }}</h6>
             {% endif %}
-
-            {% if entry.publisher %}
-              <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
-                <em>{{ entry.publisher }}</em>
-              </h6>
-            {% endif %}
-
-            {% if entry.summary %}
-              <p class="ml-1 ml-md-4">{{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
-            {% endif %}
+            <p class="ml-1 ml-md-4" style="font-size: 0.95rem">
+              {% if entry.authors %}
+                {{ entry.authors | join: ', ' }}
+              {% endif %}
+              {% if entry.journal %}
+                · {{ entry.journal }}
+              {% endif %}
+              {% if entry.summary %}
+                · {{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}
+              {% endif %}
+            </p>
           </div>
         {% else %}
           <div class="col-xs-12 col-sm-12 col-md-12">
