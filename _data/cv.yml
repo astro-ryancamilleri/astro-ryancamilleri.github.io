@@ -101,8 +101,10 @@ cv:
 
     Publications:
       - title: "Supernova Unite: Constraints on cosmologies beyond-ΛCDM"
+        authors:
+          - R. Camilleri et al.
         date: 2026
-        summary: R. Camilleri et al. In preparation
+        summary: In preparation
 
       - title: "Supernova Unite: Combining Pantheon+ and DES-SN5YR"
         authors:
