@@ -6,4 +6,4 @@ design:
     show_footer: false
     show_top_note: false
   entries:
-    degree_width: 3.5cm
+    date_and_location_width: 3cm
