@@ -6,12 +6,12 @@ subtitle: >
   postdoctoral research fellow @ <a href='https://smp.uq.edu.au/research/astrophysics/people'>The University of Queensland</a><br>
   member of the <a href='https://www.darkenergysurvey.org'>Dark Energy Survey</a> collaboration<br>
   observational cosmologist
- 
+
 profile:
   align: center
   image: ryanc.png
   image_circular: true # crops the image to make it circular
-  more_info: 
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

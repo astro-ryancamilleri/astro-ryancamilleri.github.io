@@ -6,9 +6,9 @@ cv:
   phone: "+61 433 949 126"
   summary: I am a postdoctoral research fellow at The University of Queensland specialising in observational cosmology, with a focus on standard candle techniques using Type Ia supernovae and tests of beyond-ΛCDM models. I have strong experience building end-to-end cosmology pipelines for data analysis, simulation, and parameter inference alongside statistical analysis and model testing. I am also proficient working with established cosmological software frameworks such as `COSMOSIS`, `SNANA`, and `COBAYA`.
   social_networks:
-    - network: ORCID 
-      id: 0000-0002-7436-3950 
-  
+    - network: ORCID
+      id: 0000-0002-7436-3950
+
   sections:
     Education:
       - institution: The University of Queensland
@@ -31,10 +31,10 @@ cv:
         end_date: 2020-12
 
     Awards:
-      - title: Honourable Mention for Best Student Publication in Physics 
+      - title: Honourable Mention for Best Student Publication in Physics
         date: 2025
         summary: Awarded at The Univeristy of Queensland
-    
+
       - title: Dark Energy Survey “Builder”
         date: 2025
         summary: Recognition for contributions to the DES Collaboration
@@ -46,7 +46,7 @@ cv:
       - title: Head of School Award for Excellence in Science
         date: 2020
         summary: Awarded to the Griffith University student in their final year with the highest career cumulative GPA in the Bachelor of Science (GPA 7.0).
-        
+
       - title: Australian Institute of Physics Prize
         date: 2020
         summary: Awarded to the most outstanding graduating student in a Physics major (GPA 7.0).
@@ -55,7 +55,7 @@ cv:
         date: 2020
         summary: Awarded to students who have been impacted by various types of educational disadvantage.
 
-      - title: Griffith Award for Academic Excellence 
+      - title: Griffith Award for Academic Excellence
         date: 2017
         summary: Awarded to students who achieve a cumulative GPA of at least 6.0, calculated over the academic year. I received this award each year of my undergraduate degree.
 
@@ -63,11 +63,11 @@ cv:
       - name: "Next Generation of SN Surveys Mini-Workshop"
         location: Oxford, United Kingdom
         date: 2026-07
-        summary: "Presented my paper: Supernova Unite: Combining Pantheon+ and DES-SN5YR" 
+        summary: "Presented my paper: Supernova Unite: Combining Pantheon+ and DES-SN5YR"
       - name: "Supernova Cosmology: New Challenges and Opportunities"
         location: Seoul, South Korea
         date: 2026-06
-        summary: "Presented my paper: Supernova Unite: Combining Pantheon+ and DES-SN5YR" 
+        summary: "Presented my paper: Supernova Unite: Combining Pantheon+ and DES-SN5YR"
       - name: "The End of Λ?"
         location: Incheon, South Korea
         date: 2025-09
@@ -163,4 +163,3 @@ cv:
       - name: Dr Paul Shah
         reference: DES Collaboration
         email: paul.shah.19@ucl.ac.uk
-      
