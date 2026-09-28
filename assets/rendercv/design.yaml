@@ -6,4 +6,4 @@ design:
     show_footer: false
     show_top_note: false
   entries:
-    degree_column_width: 3.5cm
+    degree_width: 3.5cm
