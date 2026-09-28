@@ -5,3 +5,8 @@ design:
   header:
     connections:
       display_urls_instead_of_usernames: false
+
+  colors:
+    name: "#0066CC"
+    connections: "#0066CC"
+    section_titles: "#0066CC"
