@@ -1,10 +1,4 @@
 ---
-profile:
-  align: right
-  image: ryanc.png
-  image_circular: true # crops the image to make it circular
-  more_info:
-
 layout: about
 title: about
 permalink: /
@@ -12,6 +6,12 @@ subtitle: >
   postdoctoral research fellow @ <a href='https://smp.uq.edu.au/research/astrophysics/people'>The University of Queensland</a><br>
   member of the <a href='https://www.darkenergysurvey.org'>Dark Energy Survey</a> collaboration<br>
   observational cosmology
+
+profile:
+  align: right
+  image: ryanc.png
+  image_circular: true # crops the image to make it circular
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -32,8 +32,8 @@ Combining type Ia supernovae with complementary probes to constrain cosmic expan
 <figure class="text-center">
   <img src="/assets/img/w0wa_switch.gif"
        alt="Unite cosmology results"
-       style="max-width: 700px;">
+       style="max-width: 300px;">
   <figcaption>
-    Cosmological constraints from the Supernovae Unite analysis.
+    Cosmological constraints from the Supernovae Unite analysis provided the tightest constraints on time-varying dark energy to-date!
   </figcaption>
 </figure>
