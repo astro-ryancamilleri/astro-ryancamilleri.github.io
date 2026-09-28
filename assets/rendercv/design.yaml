@@ -8,5 +8,6 @@ design:
 
   colors:
     name: "#0066CC"
+    headline: "#0066CC"
     connections: "#0066CC"
     section_titles: "#0066CC"
