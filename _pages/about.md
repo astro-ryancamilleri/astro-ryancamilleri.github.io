@@ -5,7 +5,7 @@ permalink: /
 subtitle: >
   postdoctoral research fellow @ <a href='https://smp.uq.edu.au/research/astrophysics/people'>The University of Queensland</a><br>
   member of the <a href='https://www.darkenergysurvey.org'>Dark Energy Survey</a> collaboration<br>
-  observational cosmologist
+  observational cosmology
 
 profile:
   align: center
