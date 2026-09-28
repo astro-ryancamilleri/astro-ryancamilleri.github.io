@@ -173,14 +173,15 @@ cv:
       - label: Dark Energy Spectroscopic Instrument (DESI) Collaboration
         details: Member. DESI seeks to map the large-scale structure of the Universe over an enormous volume. Targeting about 30 million pre-selected galaxies across one-third of the night sky, scientists will use DESI’s redshifts data to construct 3D maps of the universe.
 
-    References:
-      - name: Prof. Tamara Davis
-        reference: PhD Supervisor, University of Queensland
-        email: tamarad@physics.uq.edu.au
-
-      - name: A/Prof. Maria Vincenzi
-        reference: DES Supernova Working Group Convenor
-        email: maria.vincenzi@physics.ox.ac.uk
+  References:
+    - name: Prof. Tamara Davis
+      summary: PhD Supervisor, University of Queensland — tamarad@physics.uq.edu.au
+  
+    - name: A/Prof. Maria Vincenzi
+      summary: DES Supernova Working Group Convenor — maria.vincenzi@physics.ox.ac.uk
+  
+    - name: Dr Paul Shah
+      summary: DES Collaboration — paul.shah.19@ucl.ac.uk
 
       - name: Dr Paul Shah
         reference: DES Collaboration
