@@ -22,12 +22,14 @@ cv:
       - institution: The University of Queensland
         location: Brisbane, Australia
         degree: Bachelor of Science (Honours)
+        area: Physics
         start_date: 2021-02
         end_date: 2022-06
 
       - institution: Griffith University
         location: Gold Coast, Australia
-        degree: Bachelor of Science (Physics & Mathematics)
+        degree: Bachelor of Science
+        area: Physics & Mathematics
         start_date: 2017-02
         end_date: 2020-12
 
