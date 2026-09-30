@@ -5,7 +5,6 @@ title: publications
 description:
 nav: true
 nav_order: 3
----
 
 _styles: |
   .publication-title-legend {
@@ -13,6 +12,7 @@ _styles: |
     font-weight: normal;
     color: var(--global-theme-color);
   }
+---
 
 <!-- _pages/publications.md -->
 
