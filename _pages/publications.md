@@ -6,11 +6,8 @@ description:
 nav: true
 nav_order: 3
 ---
-
 <div class="publication-legend">
-  (<span class="publication-lead">lead</span> |
-   <span class="publication-lead-group">lead group</span> |
-   <span class="publication-builder">builder</span>)
+  (<span style="color: var(--global-theme-color);">coloured titles indicate publications where I was project lead</span>
 </div>
 
 <!-- _pages/publications.md -->
@@ -22,3 +19,4 @@ nav_order: 3
 {% bibliography %}
 
 </div>
+npx prettier . --check
