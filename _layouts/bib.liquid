@@ -1,6 +1,23 @@
 ---
 ---
-<div class="row publication-{{ entry.highlight }}">
+---
+---
+
+<style>
+.publication-lead .title {
+  color: var(--global-theme-color);
+}
+
+.publication-lead-group .title {
+  color: #e67e22;
+}
+
+.publication-builder .title {
+  color: var(--global-text-color);
+}
+</style>
+
+<div class="row publication-{{ entry.highlight | replace: '_', '-' }}">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
