@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 <div class="publication-legend">
-  (<span style="color: var(--global-theme-color);">coloured titles indicate publications where I was project lead</span>
+  <span style="color: var(--global-theme-color);">coloured titles indicate publications where I was project lead</span>
 </div>
 
 <!-- _pages/publications.md -->
