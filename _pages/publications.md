@@ -11,7 +11,7 @@ nav_order: 3
 
 {% include bib_search.liquid %}
 
-<div class="publications (lead author group)">
+<div class="publications">
 
 {% bibliography %}
 
